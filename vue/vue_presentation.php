@@ -7,9 +7,7 @@
         <div class="text-container">
             <h2>Hidetaka Miyazaki</h2>
             <h5>Président et Directeur Créatif</h5>
-            <p>« Chez FROMSOFTWARE, nous croyons en la puissance des défis et des expériences enrichissantes. Créer un jeu, c'est offrir aux joueurs une aventure qui les marque et les fait grandir. »</p>
-            <p>Sous sa direction, nous avons façonné des mondes uniques où chaque détail est pensé pour offrir un gameplay immersif et stimulant.</p>
-            <p>Avec une vision ambitieuse et une passion inébranlable, Miyazaki nous guide vers un avenir où chaque projet est une nouvelle opportunité d'innover et d'inspirer.</p>
+            <p>« Chez FROMSOFTWARE, </p>
         </div>
     </section>
 
